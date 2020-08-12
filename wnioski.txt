@@ -1,0 +1,3 @@
+Wykres wyników czasu trwania operacji getValue i setValue w zależności od liczby elementów pokazuje, że obie operacje mają złożoność czasową O(log n). Wyszukiwanie elementu jest natomiast około 2 razy szybsze od wstawiania.
+
+Wyniki otrzymane w klasie MinKeySearchTimeTest pokazują różnicę pesymistycznej złożoności czasowej znajdowania elementu pomiędzy zwykłym drzewem binarnym, a drzewem RBT. Dla zwykłego drzewa binarnego ta złożoności ta jest liniowa, zaś dla drzewa RBT logarytmiczna. Wyszukiwanie w drzewie RBT jest w większości przypadków znacznie szybsze, co sprawia, że jest lepsze od zwykłego drzewa binarnego.
